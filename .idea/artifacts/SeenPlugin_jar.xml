@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeenPlugin:jar">
+    <output-path>$USER_HOME$/Documents/Completed Plugins</output-path>
+    <root id="archive" name="SeenPlugin.jar">
+      <element id="module-output" name="SeenPlugin" />
+    </root>
+  </artifact>
+</component>

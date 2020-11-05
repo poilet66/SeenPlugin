@@ -1,0 +1,7 @@
+#Colours for /seen to read from, get the colour names from https://minecraft.tools/en/color-code.php
+
+relationcolours:
+  ally: LIGHT_PURPLE
+  enemy: RED
+  friendly: GREEN
+  neutral: YELLOW

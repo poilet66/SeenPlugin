@@ -1,0 +1,8 @@
+name: SeenPlugin
+description: Allows players to view eachother's profiles.
+version: 1.0
+main: me.poilet66.seenplugin.SeenMain
+commands:
+  seen:
+    description: See profile of a player
+    usage: /seen <player>
